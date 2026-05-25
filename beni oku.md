@@ -1,1 +1,1 @@
-Uyumluluk: Windows & Premier Pro 2026
+Uyumluluk: Windows & Premier Pro
